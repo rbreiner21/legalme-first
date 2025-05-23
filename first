@@ -1,0 +1,8 @@
+legalme-next/
+├─ pages/
+│  ├─ api/
+│  │  └─ analisar.js     ← API de análise com OpenAI
+│  └─ index.js           ← Frontend com campo de link
+├─ .gitignore
+├─ package.json
+├─ README.md (opcional)
