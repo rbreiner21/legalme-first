@@ -1,0 +1,20 @@
+# Vá até a pasta do projeto
+cd legalme-next
+
+# Inicie um repositório Git
+git init
+
+# Adicione os arquivos
+git add .
+
+# Faça o primeiro commit
+git commit -m "Versão inicial do projeto LegalMe"
+
+# Crie um repositório novo no GitHub em: https://github.com/new
+# Nome sugerido: legalme-next
+
+# Depois, conecte seu projeto local ao GitHub:
+git remote add origin https://github.com/SEU_USUARIO/legalme-next.git
+
+# Suba o projeto
+git push -u origin main
